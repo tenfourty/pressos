@@ -1,6 +1,6 @@
 
-### Agile, DevOps, Continuous Delivery and Lean - How do you tie it all together in G- Cloud?
-### Red Hat Breakout, Think Cloud for .gov 2014
+### Agile, DevOps, Continuous Delivery and Lean - How do you tie it all together in GCloud?
+#### Red Hat Breakout, Think GCloud March 2014
 Jeremy Brown - Head of Middleware UK&I, Red Hat
 
 [@tenfourty] [1]
@@ -53,6 +53,8 @@ Jeremy Brown - Head of Middleware UK&I, Red Hat
 * Agility - turn our infrastructure into a PAYG utility model
 * Lock in - Wastage of procurement... - repeat locking of proprietary in the cloud.
 
+TODO
+
 Note: "IT is changing dramatically, which is not to say there won't be some IT organizations 20 years from now that look like IT organizations did 20 years ago.
 
 But when I think about the changes, increasingly the basic functions that IT organizations spent 70 percent of their time delivering — compute, storage, and networking — can be purchased, and they can be purchased from third parties. This is utility computing. So the organizations that figure that out and start to purchase those at commodity rates rather than continuing to generate custom solutions themselves will position themselves to get ahead.
@@ -89,13 +91,27 @@ https://en.wikipedia.org/wiki/Continuous_delivery
 
 --
 
-## Lean
+## DevOps
+
+* Where Developers and Operations meet - DevOps
+* But it's much more than that!
+    * DevOps is about the business <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
+    * You can't write code with agile and deploy waterfall! <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
+
+![DevOps Diagram](img/Devops.svg) <!-- .element: class="noshadow" -->
+
+https://en.wikipedia.org/wiki/DevOps
 
 --
 
-## Devops
+## Lean Startup
+##### It's not just for startups, it's a cultural pattern
 
-devops recap
+![Lean Methodology Diagram](img/lean_methodology_diagram.jpg) <!-- .element: class="noshadow" -->
+
+#### Lets ship the MVP (Minimum Viable Product)!
+
+http://theleanstartup.com/principles
 
 ---
 
@@ -103,11 +119,13 @@ devops recap
 
 the implication of devops is infrastructure as code
 
+TODO
+
 ---
 
 ## Customer's Vision
 
-Red Hat Strategic Advisory Board (SAB) meeting with CIOs from several of our top customers:
+Red Hat Strategic Advisory Board meeting with CIOs from several of our top customers:
 
 > "They want to describe and automate all their systems and applications fully with software, from hardware up through complex, multi-tier apps and services.
 
@@ -118,7 +136,8 @@ Red Hat Strategic Advisory Board (SAB) meeting with CIOs from several of our top
 ---
 
 
-## Meanwhile... Up in the G-Clouds
+## Meanwhile... 
+## up in the G-Clouds
 
 * We have many G-Clouds
 * Clouds have different security classifications
@@ -128,7 +147,7 @@ Red Hat Strategic Advisory Board (SAB) meeting with CIOs from several of our top
 
 ## Customer's Problem
 
-Red Hat Strategic Advisory Board (SAB) meeting with CIOs from several of our top customers:
+Red Hat Strategic Advisory Board meeting with CIOs from several of our top customers:
 
 > "One of the problems they have is that everyone is defining APIs for their own platforms, but they can’t take workloads from one to another because the APIs they use for orchestration are different."
 
@@ -167,7 +186,45 @@ Red Hat Strategic Advisory Board (SAB) meeting with CIOs from several of our top
 
 ---
 
-## OpenStack Heat intro
+## Let me introduce you to an idea
+### This might be pie in the sky but there is real code!<!-- .element: class="fragment" data-fragment-index="1" -->
+
+--
+
+## OpenStack Heat
+
+Inspired by (and compatible with) Amazon Cloud Formations
+
+Mission:
+> The mission of the OpenStack Orchestration program is to create human and machine-accessible services for managing the entire lifecycle of infrastructure and applications within OpenStack clouds.
+
+
+
+https://wiki.openstack.org/wiki/Heat
+
+--
+
+## How it works
+
+* A Heat template describes the infrastructure for a cloud application in a text file that is readable and writable by humans, and can be checked into version control, diffed etc.
+* Heat also provides an autoscaling service, so you can include a scaling group as a resource in a template.
+* Templates can also specify the relationships between resources (e.g. this volume is connected to this server).
+* Heat manages the whole lifecycle of the application - when you need to change your infrastructure, simply modify the template and use it to update your existing stack. Heat knows how to make the necessary changes. It will delete all of the resources when you are finished with the application, too.
+* It has a pluggable resource adapter framework - plugins are easy to write for your own cloud
+
+--
+
+## Oh and it's open source and has a strong community
+
+* OpenStack Havana Release
+    * 837 commits and 67 unique technical authors
+* OpenStack Icehouse Release
+    * 499 commits and 71 unique technical authors
+
+--
+
+## Caveat: the project is just focused on OpenStack
+### For now...
 
 ---
 
@@ -179,7 +236,7 @@ Red Hat Strategic Advisory Board (SAB) meeting with CIOs from several of our top
     * Is this Heat in the OpenStack project?
     * A Heat resource adapter for every G-Cloud?
 * Come and join the discussion, we are a community!
-    * email <jeremy@redhat.com>
+    * email me - <jeremy@redhat.com>
 
 ---
 
@@ -227,8 +284,4 @@ Jeremy Brown [@tenfourty] [4]
 <jeremy@redhat.com>
 
 ![Red Hat](img/Red_Hat_RGB.png) <!-- .element: class="noshadow" -->
-
----
-
-## More Information Slide
 
