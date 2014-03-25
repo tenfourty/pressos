@@ -53,19 +53,39 @@ Jeremy Brown - Head of Middleware UK&I, Red Hat
 * Agility - turn our infrastructure into a PAYG utility model
 * Lock in - Wastage of procurement... - repeat locking of proprietary in the cloud.
 
+Note: "IT is changing dramatically, which is not to say there won't be some IT organizations 20 years from now that look like IT organizations did 20 years ago.
+
+But when I think about the changes, increasingly the basic functions that IT organizations spent 70 percent of their time delivering — compute, storage, and networking — can be purchased, and they can be purchased from third parties. This is utility computing. So the organizations that figure that out and start to purchase those at commodity rates rather than continuing to generate custom solutions themselves will position themselves to get ahead.
+
 --
 
 ## Now we need some buzzwords
+### these are key themes that have influenced my thinking <!-- .element: class="fragment" data-fragment-index="1" -->
 
 --
 
-## Pets vs Cattle
+## [Pets vs Cattle] [1]
 
-slide on this to make the point
+* Pets are given names like pussinboots.cern.ch <!-- .element: class="fragment" data-fragment-index="1" -->
+* The are unique, lovingly hand raised and cared for <!-- .element: class="fragment" data-fragment-index="1" -->
+* When they get ill, you nurse them back to health <!-- .element: class="fragment" data-fragment-index="1" -->
+* Cattle are given numbers like vm0042.cern.ch <!-- .element: class="fragment" data-fragment-index="2" -->
+* They are almost identical to other cattle <!-- .element: class="fragment" data-fragment-index="2" -->
+* When they get ill, you get another one <!-- .element: class="fragment" data-fragment-index="2" -->
+
+![Pet](img/pet.png) <!-- .element: class="fragment" data-fragment-index="1" --> ![Cattle](img/cattle.png) <!-- .element: class="fragment" data-fragment-index="2" -->
+
+Future application architectures should use Cattle but Pets with strong configuration management are viable and still needed <!-- .element: class="fragment" data-fragment-index="3" -->
+
+[1]: http://www.slideshare.net/gmccance/cern-data-centre-evolution
 
 --
 
 ## Continuous Delivery
+
+![Continous Delivery Process Diagram](img/Continuous_Delivery_process_diagram.png) <!-- .element: class="noshadow" -->
+
+https://en.wikipedia.org/wiki/Continuous_delivery
 
 --
 
@@ -79,17 +99,38 @@ devops recap
 
 ---
 
-## Infrastructure as Code - software defined cloud - software defined data centre
+## Infrastructure as Code
 
 the implication of devops is infrastructure as code
 
 ---
 
-## Up in the G-Clouds
+## Customer's Vision
+
+Red Hat Strategic Advisory Board (SAB) meeting with CIOs from several of our top customers:
+
+> "They want to describe and automate all their systems and applications fully with software, from hardware up through complex, multi-tier apps and services.
+
+> They want to provision and manage the lifecycle of everything (Linux and Windows, private and public clouds) in an automated fashion.
+
+> Several said this was the holy grail for them" <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
+
+---
+
+
+## Meanwhile... Up in the G-Clouds
 
 * We have many G-Clouds
 * Clouds have different security classifications
-* Clouds have different APIs - tied to the cloud provider
+* Clouds have different APIs - tied to the cloud provider so our apps are not portable
+
+---
+
+## Customer's Problem
+
+Red Hat Strategic Advisory Board (SAB) meeting with CIOs from several of our top customers:
+
+> "One of the problems they have is that everyone is defining APIs for their own platforms, but they can’t take workloads from one to another because the APIs they use for orchestration are different."
 
 ---
 
@@ -99,19 +140,46 @@ the implication of devops is infrastructure as code
 	* My data might be in one cloud
 	* My main application(s) are in a different cloud
 	* I might have a REST API exposed that runs in a third cloud
-* 
 
 ---
 
-## Jim's Customer's vision slide
+## Future: Vision
+
+* Top-level application stack “manifest”
+    * defines configuration and relationships of all services which comprise an application
+    * cross-service (e.g. {NW,St,DB,I,aP,xP,LB,DNS}aaS)
+    * defines how to create/update/delete the entire application, perhaps even suspend/resume
+* Enables efficient automatic application creation and deletion
+    * Relevant across dev, QA, prod
+* An enabler for DevOps
+* Defrag the Data Centre - free up resources
 
 ---
 
-## Jim's Future: Go Meta slide
+## Future: go “meta”
+
+* Application stack templates
+* Example: “give me a disaster resilient JEE app with a preconfigured database”
+
+* App manifests move from Word documents to become machine-processable
+    * Automatic reasoning about application estates (auto-scaling, capacity management, DR analysis, etc.)
+    * Simplification, standardisation and efficiency gains across the board
 
 ---
 
 ## OpenStack Heat intro
+
+---
+
+## To Summarise
+
+* We have a problem with each cloud provider having a different API, so our applications are still stuck and we can't treat our infrastructure as code
+* If we can't treat our infrastructure as code we can't do real DevOps, Continuous Delivery and Lean
+* We need an open standard and a project that we rally around for application orchestration
+    * Is this Heat in the OpenStack project?
+    * A Heat resource adapter for every G-Cloud?
+* Come and join the discussion, we are a community!
+    * email <jeremy@redhat.com>
 
 ---
 
@@ -124,14 +192,14 @@ the implication of devops is infrastructure as code
 * Git
 * Cassandra
 
----
+--
 
 ## What do these have in common?
 * They are all open source
 * They are all examples of next-generation IT solutions
 * They were started by users and developers, not companies
 
----
+--
 
 ## Cloud without open source software?
 * No Amazon
