@@ -115,5 +115,52 @@ the implication of devops is infrastructure as code
 
 ---
 
+## What do these have in common?
+* Linux
+* OpenStack
+* Hadoop
+* Rails
+* MongoDB
+* Git
+* Cassandra
+
+---
+
+## What do these have in common?
+* They are all open source
+* They are all examples of next-generation IT solutions
+* They were started by users and developers, not companies
+
+---
+
+## Cloud without open source software?
+* No Amazon
+* No Rackspace
+* No Google
+* No Yahoo!
+* No Salesforce.com
+* No LinkedIn
+* No Pandora
+* No Twitter
+* No Facebook
+
+---
+
+## Thank you
+This [presentation] [1] is running on [OpenShift] [2] 
+
+and was developed in HTML5 with [reveal.js] [3]
+
+Jeremy Brown [@tenfourty] [4]
+[1]: http://redhatthinkgcloud2014-runningonthe.rhcloud.com/#/
+[2]: http://www.openshift.com/ "OpenShift"
+[3]: https://github.com/hakimel/reveal.js "reveal.js"
+[4]: http://twitter.com/tenfourty/ "@tenfourty"
+<jeremy@redhat.com>
+
+![Red Hat](img/Red_Hat_RGB.png) <!-- .element: class="noshadow" -->
+
+---
+
 ## More Information Slide
 
