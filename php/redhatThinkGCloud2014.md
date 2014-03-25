@@ -152,7 +152,7 @@ This [presentation] [1] is running on [OpenShift] [2]
 and was developed in HTML5 with [reveal.js] [3]
 
 Jeremy Brown [@tenfourty] [4]
-[1]: http://redhatthinkgcloud2014-runningonthe.rhcloud.com/#/
+[1]: http://pressos-runningonthe.rhcloud.com/redhatThinkGCloud2014.html
 [2]: http://www.openshift.com/ "OpenShift"
 [3]: https://github.com/hakimel/reveal.js "reveal.js"
 [4]: http://twitter.com/tenfourty/ "@tenfourty"
