@@ -116,7 +116,7 @@ http://theleanstartup.com/principles
 
 ## Infrastructure as Code
 
-The implication of Continuous Deployment, DevOps and lean is that we need to start treating infrastructure as code
+The implication of Continuous Deployment, DevOps and Lean is that we need to start treating infrastructure as code
 
 * This will allow us to reduce cycle time
 * And version our infrastructure
