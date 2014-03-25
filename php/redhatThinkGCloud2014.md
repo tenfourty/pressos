@@ -49,11 +49,10 @@ Jeremy Brown - Head of Middleware UK&I, Red Hat
 
 ## Recap - Why are we doing this cloud thing anyway?
 
-* Save money? - maybe
+* Save money
 * Agility - turn our infrastructure into a PAYG utility model
-* Lock in - Wastage of procurement... - repeat locking of proprietary in the cloud.
-
-TODO
+* Lock in
+* What else?
 
 Note: "IT is changing dramatically, which is not to say there won't be some IT organizations 20 years from now that look like IT organizations did 20 years ago.
 
@@ -113,13 +112,14 @@ https://en.wikipedia.org/wiki/DevOps
 
 http://theleanstartup.com/principles
 
----
+--
 
 ## Infrastructure as Code
 
-the implication of devops is infrastructure as code
+The implication of Continuous Deployment, DevOps and lean is that we need to start treating infrastructure as code
 
-TODO
+* This will allow us to reduce cycle time
+* And version our infrastructure
 
 ---
 
