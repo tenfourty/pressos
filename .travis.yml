@@ -1,0 +1,10 @@
+script: true
+deploy:
+  provider: openshift
+  user: jebrown@redhat.com
+  password:
+    secure: XCTt8KWOJM27V0K2W88WkNQWccfOHVvLe5NNDZUV5eS3dlVfRMQMRTuWJBnhhybaGGigphoA8gHNJVP60HJPwUE0XpJ+aagv3aSV5jBlue6ANrW2LABrDdsa2NDNt3Y0sG8dWOlU9lkxwAMT2f0mbQd4wHIf0hw93mUIuaS/1JA=
+  app: pressos
+  domain: runningonthe
+  on:
+    repo: tenfourty/pressos
