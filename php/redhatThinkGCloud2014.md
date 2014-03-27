@@ -272,15 +272,19 @@ https://wiki.openstack.org/wiki/Heat
 ---
 
 ## Thank you
-This [presentation] [1] is running on [OpenShift] [2] 
+This [presentation] [1] is running on [OpenShift] [2],
 
-and was developed in HTML5 with [reveal.js] [3]
+the source code is on [GitHub] [3]
 
-Jeremy Brown [@tenfourty] [4]
-[1]: http://pressos-runningonthe.rhcloud.com/redhatThinkGCloud2014.html
+and it was developed in HTML5 with [reveal.js] [4]
+
+Jeremy Brown [@tenfourty] [5]
+
+[1]: http://pressos-runningonthe.rhcloud.com/theRedHatModel.html
 [2]: http://www.openshift.com/ "OpenShift"
-[3]: https://github.com/hakimel/reveal.js "reveal.js"
-[4]: http://twitter.com/tenfourty/ "@tenfourty"
+[3]: https://github.com/tenfourty/pressos
+[4]: https://github.com/hakimel/reveal.js "reveal.js"
+[5]: http://twitter.com/tenfourty/ "@tenfourty"
 <jeremy@redhat.com>
 
 ![Red Hat](img/Red_Hat_RGB.png) <!-- .element: class="noshadow" -->
