@@ -18,10 +18,19 @@ Lets call them Jeremy's golden rules for buying ;-)
 5. Your exposure to Vendor lock-in should be minimised and you should be able to walk away and keep the bits <!-- .element: class="fragment" data-fragment-index="5" -->
 6. You shouldn't pay for upgrades! <!-- .element: class="fragment" data-fragment-index="6" -->
 
+---
+
+### And some bonus rules for Open Source
+#### Though you might apply them to proprietary software too <!-- .element: class="fragment" data-fragment-index="1" -->
+
+1. What is the size and adoption of the community behind this solution? Is it still growing? <!-- .element: class="fragment" data-fragment-index="2" -->
+2. How open is the community? Does the license allow the community to fork the code?  <!-- .element: class="fragment" data-fragment-index="3" -->
+
 
 ---
 
-## Does the RED Hat model meet Jeremy's rules?
+## Red Hat's Model: Community Powered Innovation
+### Does it meet Jeremy's rules?  <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
@@ -41,12 +50,13 @@ Lets call them Jeremy's golden rules for buying ;-)
 
 ![Red Hat Leads Through Open Innovation](img/rht-lifecycle.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
 
+
 ---
 
-## Shadowman update
-### Reached $1.33B in FY13 <!-- .element: class="fragment highlight-red" -->
+### JBoss Community & JBoss Enterprise
+#### Targeting Different Users & Use Cases
 
-![10 Years of RHEL](img/RHEL_10year-02.png) <!-- .element: class="noshadow" -->
+![JBoss Community and Enterprise Differentiation](img/JBossCommunity-EnterpriseDifferentiation.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
 
 ---
 
@@ -59,34 +69,18 @@ Lets call them Jeremy's golden rules for buying ;-)
 
 ---
 
-## What do these have in common?
+## What links all of these technologies?
+
+![Gartner Nexus of Forces](img/gartnerNexusOfForces.png) <!-- .element: class="noshadow" style="float: right" --> <!-- .element: class="fragment" data-fragment-index="2" -->
+
+* Android
+* Facebook
+* Amazon WS
+* Hadoop
 * Linux
 * OpenStack
-* Hadoop
-* Rails
-* MongoDB
-* Git
-* Cassandra
 
----
-
-## What do these have in common?
-* They are all open source
-* They are all examples of next-generation IT solutions
-* They were started by users and developers, not companies
-
----
-
-## Cloud without open source software?
-* No Amazon
-* No Rackspace
-* No Google
-* No Yahoo!
-* No Salesforce.com
-* No LinkedIn
-* No Pandora
-* No Twitter
-* No Facebook
+All based on Open Source, the engine of innovation <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
