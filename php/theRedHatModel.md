@@ -8,7 +8,22 @@ Jeremy Brown - Head of Middleware UK&I, Red Hat
 
 ---
 
-### First lets talk about some **principles** for selecting software
+## What links all of these technologies?
+
+![Gartner Nexus of Forces](img/gartnerNexusOfForces.png) <!-- .element: class="noshadow" style="float: right" --> <!-- .element: class="fragment" data-fragment-index="2" -->
+
+* Android
+* Facebook
+* Amazon WS
+* Hadoop
+* Linux
+* OpenStack
+
+All based on Open Source, the engine of innovation <!-- .element: class="fragment" data-fragment-index="1" -->
+
+---
+
+### Lets talk about some **principles** for selecting software
 Lets call them Jeremy's golden rules for buying ;-)
 
 1. Software for your enterprise needs to be proven and ready for production <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -60,6 +75,10 @@ Lets call them Jeremy's golden rules for buying ;-)
 
 ---
 
+![JBoss Portfolio](img/JBossPortfolio.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
+
+---
+
 ## Is Open Source a Business Model?
 
 * No <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -69,18 +88,34 @@ Lets call them Jeremy's golden rules for buying ;-)
 
 ---
 
-## What links all of these technologies?
-
-![Gartner Nexus of Forces](img/gartnerNexusOfForces.png) <!-- .element: class="noshadow" style="float: right" --> <!-- .element: class="fragment" data-fragment-index="2" -->
-
-* Android
-* Facebook
-* Amazon WS
-* Hadoop
+## What do these have in common?
 * Linux
 * OpenStack
+* Hadoop
+* Rails
+* MongoDB
+* Git
+* Cassandra
 
-All based on Open Source, the engine of innovation <!-- .element: class="fragment" data-fragment-index="1" -->
+---
+
+## What do these have in common?
+* They are all open source
+* They are all examples of next-generation IT solutions
+* They were started by users and developers, not companies
+
+---
+
+## Cloud without open source software?
+* No Amazon
+* No Rackspace
+* No Google
+* No Yahoo!
+* No Salesforce.com
+* No LinkedIn
+* No Pandora
+* No Twitter
+* No Facebook
 
 ---
 
