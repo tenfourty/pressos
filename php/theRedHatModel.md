@@ -8,7 +8,7 @@ Jeremy Brown - Head of Middleware UK&I, Red Hat
 
 ---
 
-### But first lets talk about some **principles** for selecting software
+### First lets talk about some **principles** for selecting software
 Lets call them Jeremy's golden rules for buying ;-)
 
 1. Software for your enterprise needs to be proven and ready for production <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -21,8 +21,7 @@ Lets call them Jeremy's golden rules for buying ;-)
 
 ---
 
-## Let's TALK about the RED HAT model...
-#### does Red Hat meet Jeremy's rules? <!-- .element: class="fragment" data-fragment-index="1" -->
+## Does the RED Hat model meet Jeremy's rules?
 
 ---
 
@@ -92,15 +91,19 @@ Lets call them Jeremy's golden rules for buying ;-)
 ---
 
 ## Thank you
-This [presentation] [1] is running on [OpenShift] [2] 
+This [presentation] [1] is running on [OpenShift] [2],
 
-and was developed in HTML5 with [reveal.js] [3]
+the source code is on [GitHub] [3]
 
-Jeremy Brown [@tenfourty] [4]
+and it was developed in HTML5 with [reveal.js] [4]
+
+Jeremy Brown [@tenfourty] [5]
+
 [1]: http://pressos-runningonthe.rhcloud.com/theRedHatModel.html
 [2]: http://www.openshift.com/ "OpenShift"
-[3]: https://github.com/hakimel/reveal.js "reveal.js"
-[4]: http://twitter.com/tenfourty/ "@tenfourty"
+[3]: https://github.com/tenfourty/pressos
+[4]: https://github.com/hakimel/reveal.js "reveal.js"
+[5]: http://twitter.com/tenfourty/ "@tenfourty"
 <jeremy@redhat.com>
 
 ![Red Hat](img/Red_Hat_RGB.png) <!-- .element: class="noshadow" -->
