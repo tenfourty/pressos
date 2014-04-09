@@ -18,7 +18,7 @@ Lets call them Jeremy's golden rules for buying ;-)
 
 1. Software for your enterprise needs to be proven and ready for production <!-- .element: class="fragment" data-fragment-index="1" -->
 2. Everything you run in production should have long term enterprise grade support <!-- .element: class="fragment" data-fragment-index="2" -->
-3. Your cost of aquisition for software should be minimal (license plus training etc.) and the ongoing cost should be predicatable <!-- .element: class="fragment" data-fragment-index="3" -->
+3. Your cost of aquisition for software should be minimal (license plus training etc.) and the ongoing cost should be predictable <!-- .element: class="fragment" data-fragment-index="3" -->
 4. Your TCO calculations should include the Cost of Exit and should be factored in during the selection process <!-- .element: class="fragment" data-fragment-index="4" -->
 5. Your exposure to Vendor lock-in should be minimised and you should be able to walk away and keep the bits <!-- .element: class="fragment" data-fragment-index="5" -->
 6. You shouldn't pay for upgrades! <!-- .element: class="fragment" data-fragment-index="6" -->
