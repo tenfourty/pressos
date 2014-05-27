@@ -25,7 +25,7 @@ body {
   background-color: #2b2b2b; }
 
 .reveal {
-  font-family: "Overpath";
+  font-family: "Overpass";
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
@@ -46,7 +46,7 @@ body {
 .reveal h4, {
   margin: 0 0 20px 0;
   color: #eeeeee;
-  font-family: "Overpath";
+  font-family: "Overpass";
   line-height: 0.9em;
   letter-spacing: 0.02em;
   text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
