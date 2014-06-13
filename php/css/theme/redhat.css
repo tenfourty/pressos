@@ -5,14 +5,14 @@
  */
 @font-face {
   font-family: 'OverpassBold';
-  src: url("https://www.redhat.com/s/fonts/overpass_bold-web.eot"), url("https://www.redhat.com/s/fonts/overpass_bold-web.woff") format("woff"), url("https://www.redhat.com/s/fonts/overpass_bold-web.ttf") format("truetype"), url("https://www.redhat.com/s/fonts/overpass_bold-web.svg#webfontzAU82Ltw") format("svg");
+  src: url("/fonts/overpass_bold-web.eot"), url("/fonts/overpass_bold-web.woff") format("woff"), url("/fonts/overpass_bold-web.ttf") format("truetype"), url("/fonts/overpass_bold-web.svg") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Overpass';
-  src: url("https://www.redhat.com/s/fonts/overpass_regular-web.eot"), url("https://www.redhat.com/s/fonts/overpass_regular-web.woff") format("woff"), url("https://www.redhat.com/s/fonts/overpass_regular-web.ttf") format("truetype"), url("https://www.redhat.com/s/fonts/overpass_regular-web.svg#webfontLTZe4IYH") format("svg");
+  src: url("/fonts/overpass_regular-web.eot"), url("/fonts/overpass_regular-web.woff") format("woff"), url("/fonts/overpass_regular-web.ttf") format("truetype"), url("/fonts/overpass_regular-web.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
