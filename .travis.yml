@@ -3,7 +3,7 @@ deploy:
   provider: openshift
   user: jebrown@redhat.com
   password:
-    secure: XCTt8KWOJM27V0K2W88WkNQWccfOHVvLe5NNDZUV5eS3dlVfRMQMRTuWJBnhhybaGGigphoA8gHNJVP60HJPwUE0XpJ+aagv3aSV5jBlue6ANrW2LABrDdsa2NDNt3Y0sG8dWOlU9lkxwAMT2f0mbQd4wHIf0hw93mUIuaS/1JA=
+    secure: OXubUNbKMasAzyJFum07ZjtSbl3C2kuI8cbr0L1E5Z73hPxRDhkaDRcGheS2+AHq3JTkbZc1HMHgCbQlqjOjSQDsTApsBClph5GpDi9bQbGbO17eIeee2HWnM3bzrKsX+CekEpuLlAKH+f8TZWY7NBOfXfm1++zsMURJbV8z3k8=
   app: pressos
   domain: runningonthe
   on:
