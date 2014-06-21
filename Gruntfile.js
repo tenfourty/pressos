@@ -109,7 +109,7 @@ module.exports = function(grunt) {
 				tasks: 'themes'
 			},
 			content: {
-				files: [ 'index.html' ],
+				files: [ 'index.html', 'RedHatForum2014.html' ],
 				tasks: []
 			}
 		}
