@@ -9,7 +9,7 @@ Jeremy Brown [@tenfourty] [5]
 
 <jeremy@redhat.com>
 
-![Red Hat](img/Red_Hat_RGB.png) <!-- .element: class="noshadow" -->
+![Red Hat](content/common/img/Red_Hat_RGB.png) <!-- .element: class="noshadow" -->
 
 For a PDF/Print version click [here] [6] in Chrome and then Ctrl-P to Print or export to PDF.
 
