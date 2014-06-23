@@ -1,6 +1,6 @@
 ## What links all of these technologies?
 
-![Gartner Nexus of Forces](img/gartnerNexusOfForces.png) <!-- .element: class="noshadow" style="float: right" --> <!-- .element: class="fragment" data-fragment-index="2" -->
+![Gartner Nexus of Forces](/content/RedHatModel/img/gartnerNexusOfForces.png) <!-- .element: class="noshadow" style="float: right" --> <!-- .element: class="fragment" data-fragment-index="2" -->
 
 * Android
 * Facebook
@@ -53,22 +53,22 @@ Let's call them Jeremy's golden rules for buying ;-)
 
 --
 
-![Red Hat Leads Through Open Innovation](img/rht-lifecycle.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
+![Red Hat Leads Through Open Innovation](/content/RedHatModel/img/rht-lifecycle.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
 
 --
 
-![The Red Hat Subscription Model](img/subscriptionModel.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
+![The Red Hat Subscription Model](/content/RedHatModel/img/subscriptionModel.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
 
 --
 
 ### JBoss Community & JBoss Enterprise
 #### Targeting Different Users & Use Cases
 
-![JBoss Community and Enterprise Differentiation](img/JBossCommunity-EnterpriseDifferentiation.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
+![JBoss Community and Enterprise Differentiation](/content/RedHatModel/img/JBossCommunity-EnterpriseDifferentiation.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
 
 --
 
-![JBoss Portfolio](img/JBossPortfolio.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
+![JBoss Portfolio](/content/RedHatModel/img/JBossPortfolio.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
 
 --
 
