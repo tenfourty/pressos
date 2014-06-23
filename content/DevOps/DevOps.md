@@ -3,7 +3,7 @@
 
 It's where Developers and Operations meet -> DevOps
 
-![DevOps Diagram](img/Devops.svg) <!-- .element: class="noshadow" -->
+![DevOps Diagram](/content/DevOps/img/Devops.svg) <!-- .element: class="noshadow" -->
 
 ### Ugh, that feels like a horrible trite definition! <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -16,12 +16,12 @@ It's where Developers and Operations meet -> DevOps
 
 ## Today's IT Challenge
 
-![Today\'s IT Challenge](img/TodaysITChallenge.png) <!-- .element: class="noshadow" -->
+![Today\'s IT Challenge](/content/DevOps/img/TodaysITChallenge.png) <!-- .element: class="noshadow" -->
 
 --
 
 ### Lessons from the B-24 Bomber
-![B-24 Bomber in Flight](img/XB-24_in_Flight.jpg) <!-- .element: class="noshadow" fullscreen-size="contain"-->
+![B-24 Bomber in Flight](/content/DevOps/img/XB-24_in_Flight.jpg) <!-- .element: class="noshadow" fullscreen-size="contain"-->
 
 
 --
@@ -124,19 +124,19 @@ THE PHOENIX PROJECT: A NOVEL ABOUT IT, DEVOPS, AND HELPING YOUR BUSINESS WIN
 
 BY GENE KIM, KEVIN BEHR AND GEORGE SPAFFORD
 
-![The Phoenix Project Book](img/PPhardcover.png) <!-- .element: class="noshadow" -->
+![The Phoenix Project Book](/content/DevOps/img/PPhardcover.png) <!-- .element: class="noshadow" -->
 
 --
 
 ### Deliver IT Success as an IT Manufacturer, not an IT Craftsman
 
-![Deliver IT Success as an IT Manufacturer, not an IT Craftsman](img/DeliverITSuccessAsAManufacturerNotAsACraftsman.png) <!-- .element: class="noshadow" fullscreen-size="contain"-->
+![Deliver IT Success as an IT Manufacturer, not an IT Craftsman](/content/DevOps/img/DeliverITSuccessAsAManufacturerNotAsACraftsman.png) <!-- .element: class="noshadow" fullscreen-size="contain"-->
 
 --
 
 ### PaaS Lets You Streamline App Dev
 
-![PaaS Lets You Streamline App Dev](img/PaaSLetsYouStreamlineAppDev.png) <!-- .element: class="noshadow" fullscreen-size="contain"-->
+![PaaS Lets You Streamline App Dev](/content/DevOps/img/PaaSLetsYouStreamlineAppDev.png) <!-- .element: class="noshadow" fullscreen-size="contain"-->
 
 ---
 
@@ -158,7 +158,7 @@ BY GENE KIM, KEVIN BEHR AND GEORGE SPAFFORD
 * They are almost identical to other cattle <!-- .element: class="fragment" data-fragment-index="2" -->
 * When they get ill, you get another one <!-- .element: class="fragment" data-fragment-index="2" -->
 
-![Pet](img/pet.png) <!-- .element: class="fragment" data-fragment-index="1" --> ![Cattle](img/cattle.png) <!-- .element: class="fragment" data-fragment-index="2" -->
+![Pet](/content/DevOps/img/pet.png) <!-- .element: class="fragment" data-fragment-index="1" --> ![Cattle](/content/DevOps/img/cattle.png) <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Future application architectures should use Cattle but Pets with strong configuration management are viable and still needed <!-- .element: class="fragment" data-fragment-index="3" -->
 
@@ -168,7 +168,7 @@ Future application architectures should use Cattle but Pets with strong configur
 
 ## Continuous Delivery
 
-![Continous Delivery Process Diagram](img/Continuous_Delivery_process_diagram.png) <!-- .element: class="noshadow" -->
+![Continous Delivery Process Diagram](/content/DevOps/img/Continuous_Delivery_process_diagram.png) <!-- .element: class="noshadow" -->
 
 https://en.wikipedia.org/wiki/Continuous_delivery
 
@@ -177,7 +177,7 @@ https://en.wikipedia.org/wiki/Continuous_delivery
 ## Lean Startup
 ##### It's not just for startups, it's a cultural pattern
 
-![Lean Methodology Diagram](img/lean_methodology_diagram.jpg) <!-- .element: class="noshadow" -->
+![Lean Methodology Diagram](/content/DevOps/img/lean_methodology_diagram.jpg) <!-- .element: class="noshadow" -->
 
 #### Lets ship the MVP (Minimum Viable Product)!
 
