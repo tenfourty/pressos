@@ -80,7 +80,7 @@ module.exports = function(grunt) {
 			server: {
 				options: {
 					port: port,
-					base: [ 'examples', '.' ]
+					base: '.'
 				}
 			}
 		},
@@ -109,7 +109,7 @@ module.exports = function(grunt) {
 				tasks: 'themes'
 			},
 			content: {
-				files: [ '*.html', 'examples/*.html' ],
+				files: [ '**/*.html' ],
 				tasks: []
 			}
 		}
