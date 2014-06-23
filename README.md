@@ -57,3 +57,6 @@ TODO - instructions in here
 This is how my workflow looks, when I push to my GitHub repository then Travis CI automatically does a build and pushes and update to my application running on OpenShift. Nifty eh?!
 
 TODO - instructions in here
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Jeremy Brown's Presentations</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://pressos-runningonthe.rhcloud.com/" property="cc:attributionName" rel="cc:attributionURL">Jeremy Brown</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/tenfourty/pressos" rel="dct:source">https://github.com/tenfourty/pressos</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:jeremy@tenfourty.com" rel="cc:morePermissions">mailto:jeremy@tenfourty.com</a>.
