@@ -27,14 +27,14 @@ Jeremy Brown - Head of Middleware UK&I, Red Hat
 
 --
 
-![Red Hat Leads Through Open Innovation](img/rht-lifecycle.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
+![Red Hat Leads Through Open Innovation](/content/RedHatModel/img/rht-lifecycle.png) <!-- .element: class="noshadow" fullscreen-size="contain" -->
 
 --
 
 ## Shadowman update
 ### Reached $1.33B in FY13 <!-- .element: class="fragment highlight-red" -->
 
-![10 Years of RHEL](img/RHEL_10year-02.png) <!-- .element: class="noshadow" -->
+![10 Years of RHEL](/content/RedHatThinkGCloud2014/img/RHEL_10year-02.png) <!-- .element: class="noshadow" -->
 
 --
 
@@ -74,7 +74,7 @@ But when I think about the changes, increasingly the basic functions that IT org
 * They are almost identical to other cattle <!-- .element: class="fragment" data-fragment-index="2" -->
 * When they get ill, you get another one <!-- .element: class="fragment" data-fragment-index="2" -->
 
-![Pet](img/pet.png) <!-- .element: class="fragment" data-fragment-index="1" --> ![Cattle](img/cattle.png) <!-- .element: class="fragment" data-fragment-index="2" -->
+![Pet](/content/DevOps/img/pet.png) <!-- .element: class="fragment" data-fragment-index="1" --> ![Cattle](/content/DevOps/img/cattle.png) <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Future application architectures should use Cattle but Pets with strong configuration management are viable and still needed <!-- .element: class="fragment" data-fragment-index="3" -->
 
@@ -84,7 +84,7 @@ Future application architectures should use Cattle but Pets with strong configur
 
 ## Continuous Delivery
 
-![Continous Delivery Process Diagram](img/Continuous_Delivery_process_diagram.png) <!-- .element: class="noshadow" -->
+![Continous Delivery Process Diagram](/content/DevOps/img/Continuous_Delivery_process_diagram.png) <!-- .element: class="noshadow" -->
 
 https://en.wikipedia.org/wiki/Continuous_delivery
 
@@ -97,7 +97,7 @@ https://en.wikipedia.org/wiki/Continuous_delivery
     * DevOps is about the business <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
     * You can't write code with agile and deploy waterfall! <!-- .element: class="fragment highlight-red" data-fragment-index="1" -->
 
-![DevOps Diagram](img/Devops.svg) <!-- .element: class="noshadow" -->
+![DevOps Diagram](/content/DevOps/img/Devops.svg) <!-- .element: class="noshadow" -->
 
 https://en.wikipedia.org/wiki/DevOps
 
@@ -106,7 +106,7 @@ https://en.wikipedia.org/wiki/DevOps
 ## Lean Startup
 ##### It's not just for startups, it's a cultural pattern
 
-![Lean Methodology Diagram](img/lean_methodology_diagram.jpg) <!-- .element: class="noshadow" -->
+![Lean Methodology Diagram](/content/DevOps/img/lean_methodology_diagram.jpg) <!-- .element: class="noshadow" -->
 
 #### Lets ship the MVP (Minimum Viable Product)!
 
@@ -287,5 +287,5 @@ Jeremy Brown [@tenfourty] [5]
 [5]: http://twitter.com/tenfourty/ "@tenfourty"
 <jeremy@redhat.com>
 
-![Red Hat](img/Red_Hat_RGB.png) <!-- .element: class="noshadow" -->
+![Red Hat](/content/common/img/Red_Hat_RGB.png) <!-- .element: class="noshadow" -->
 
